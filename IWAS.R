@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include "time.h"
 library(data.table)
 library(matlib)
 library(Rcpp)
